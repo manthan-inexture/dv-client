@@ -1,0 +1,13 @@
+.bottom-navbar {
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+}
+.bottom-nav {
+    border-radius: 20px;
+    max-width: 300px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: rgb(27, 27, 27);
+    color: white;
+}
